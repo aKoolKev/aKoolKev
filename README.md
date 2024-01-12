@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Kevin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Kevindong0212@gmail.com
+- 👋 Hi, I’m Kevin!
+- 📫 How to reach me: Kevindong0212@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was born in Brooklyn, NY, and I am trilingual.
 
