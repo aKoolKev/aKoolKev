@@ -6,7 +6,7 @@ An undergraduate at Lindenwood University studying **Computer Science** and **Ma
 - **Languages**: C++, Java, Python, JavaScript, HTML, & CSS
 - **Frameworks**: Bootstrap, & React
 - **Tools**: Git, Chrome DevTools, Visual Studio Code, & Eclipse
-- **Environment:** macOS, Windows, and Linux
+- **Environment:** macOS, Windows, & Linux
 - **Databases**: MySQL, & Firebase  
 
 ### 🎯 What I’m Working On  
