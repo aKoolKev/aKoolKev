@@ -1,7 +1,24 @@
-- 👋 Hi, I’m Kevin!
-- 📫 How to reach me: Kevindong0212@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was born in Brooklyn, NY, and I am trilingual.
+### 👋 Hi there! I'm Kevin  
+
+An undergraduate at Lindenwood University studying **Computer Science** and **Mathematics**. 
+
+### 🔧 Technologies & Skills  
+- **Languages**: C++, Java, Python, JavaScript, HTML, & CSS
+- **Frameworks**: Bootstrap, & React
+- **Tools**: Git, Chrome DevTools, Visual Studio Code, & Eclipse
+- **Databases**: MySQL, & Firebase  
+
+### 🎯 What I’m Working On  
+- Building a **responsive web app** for a restaurant ordering system  
+- Learning more about **Bootstrap** to enhance my design skills  
+
+### 🌐 Let's Connect!  
+- **Email**: Kevindon127@gmail.com  
+- **GitHub**: [your GitHub link]  
+- **LinkedIn**: www.linkedin.com/in/kevindong7
+
+### 🌟 Fun Fact  
+I was born in Brooklyn, NY, and I'm **trilingual**!: English, Mandarin, & Fuzhounese
 
 <!---
 aKoolKev/aKoolKev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
