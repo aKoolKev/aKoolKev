@@ -14,7 +14,7 @@ An undergraduate at Lindenwood University studying **Computer Science** and **Ma
 
 ### 🌐 Let's Connect!  
 - **Email**: Kevindon127@gmail.com  
-- **GitHub**: [your GitHub link]  
+- **GitHub**: https://github.com/aKoolKev 
 - **LinkedIn**: www.linkedin.com/in/kevindong7
 
 ### 🌟 Fun Fact  
