@@ -14,7 +14,7 @@ An undergraduate at Lindenwood University studying **Computer Science** and **Ma
 - Learning more about **Bootstrap** to enhance my design skills  
 
 ### 🌐 Let's Connect!  
-- **Email**: Kevindon127@gmail.com  
+- **Email**: Kevindong127@gmail.com  
 - **GitHub**: https://github.com/aKoolKev 
 - **LinkedIn**: www.linkedin.com/in/kevindong7
 
