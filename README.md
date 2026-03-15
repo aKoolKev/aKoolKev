@@ -1,17 +1,16 @@
 ### 👋 Hi there! I'm Kevin  
 
-An undergraduate at Lindenwood University studying **Computer Science** and **Mathematics**. 
+I graduated from Lindenwood University with Bachelor of Science in Computer Science and minored in Mathematics
 
 ### 🔧 Technologies & Skills  
-- **Languages**: C++, Java, Python, JavaScript, HTML, & CSS
-- **Frameworks**: Bootstrap, & React
-- **Tools**: Git, Chrome DevTools, Visual Studio Code, & Eclipse
+- **Languages**: C++, Java, Python, HTML/CSS/JS, C, & LISP
+- **Frameworks**: Svelte/SvelteKit, React, TailwindCSS, & Bootstrap
+- **Tools**: Git, Chrome DevTools, Visual Studio Code, IntelliJ, & Eclipse
 - **Environment:** macOS, Windows, & Linux
-- **Databases**: MySQL, & Firebase  
+- **Databases**: MySQL, Firebase, Supabase
 
 ### 🎯 What I’m Working On  
-- Building a **responsive web app** for a restaurant ordering system  
-- Learning more about **Bootstrap** to enhance my design skills  
+- Building a budgeting web app!
 
 ### 🌐 Let's Connect!  
 - **Email**: Kevindong127@gmail.com  
