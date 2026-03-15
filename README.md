@@ -4,7 +4,7 @@ I graduated from Lindenwood University with Bachelor of Science in Computer Scie
 
 ### 🔧 Technologies & Skills  
 - **Languages**: C++, Java, Python, HTML/CSS/JS, C, & LISP
-- **Frameworks**: Svelte/SvelteKit, React, TailwindCSS, & Bootstrap
+- **Frameworks**: Cypress, Svelte/SvelteKit, React, TailwindCSS, & Bootstrap
 - **Tools**: Git, Chrome DevTools, Visual Studio Code, IntelliJ, & Eclipse
 - **Environment:** macOS, Windows, & Linux
 - **Databases**: MySQL, Firebase, Supabase
