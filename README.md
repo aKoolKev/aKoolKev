@@ -4,8 +4,8 @@ I graduated from Lindenwood University with Bachelor of Science in Computer Scie
 
 ### 🔧 Technologies & Skills  
 - **Languages**: C++, Java, Python, HTML/CSS/JS, C, & LISP
-- **Frameworks**: Cypress, Svelte/SvelteKit, React, TailwindCSS, & Bootstrap
-- **Tools**: Git, Chrome DevTools, Visual Studio Code, IntelliJ, & Eclipse
+- **Frameworks**: Cypress/Playwright, Svelte/SvelteKit, React, TailwindCSS, & Bootstrap
+- **Tools**: Git/Bitbucket, Chrome DevTools, Visual Studio Code, IntelliJ, Datagrip & Eclipse
 - **Environment:** macOS, Windows, & Linux
 - **Databases**: MySQL, Firebase, Supabase
 
@@ -20,6 +20,8 @@ I graduated from Lindenwood University with Bachelor of Science in Computer Scie
 ### 🌟 Fun Fact  
 I was born in Brooklyn, NY, and I'm **trilingual**!: English, Mandarin, & Fuzhounese
 
+
+Last Updated as of: 5/16/26
 <!---
 aKoolKev/aKoolKev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
